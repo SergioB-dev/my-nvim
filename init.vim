@@ -9,5 +9,5 @@ Plug 'ms-jpq/coq_nvim', {'branch':'coq'}
 
 call plug#end()
 
-nnoremap <C-t> :NerdTreeToggle<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
 
