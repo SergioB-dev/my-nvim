@@ -1,3 +1,4 @@
+set number
 
 call plug#begin()
 
